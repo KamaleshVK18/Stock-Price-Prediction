@@ -104,7 +104,7 @@ for epoch in range(epochs):
 
 
 ### Predictions 
-<img width="317" height="49" alt="image" src="https://github.com/user-attachments/assets/a2297af8-b892-4721-b20e-669cd704124b" />
+<img width="1579" height="238" alt="image" src="https://github.com/user-attachments/assets/0ede8c38-169a-4dbf-9f54-bbe72ad6936a" />
 
 
 ## Result
